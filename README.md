@@ -1,0 +1,1 @@
+This repository demonstrates a common C++ error: dereferencing a null pointer.  The `bug.cpp` file contains the erroneous code, which leads to undefined behavior (typically a crash).  The `bugSolution.cpp` file provides a corrected version with proper null pointer checks.
